@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "Array",
+        "Assignments",
+        "Backtracking",
+        "BitManipulation",
+        "Java programs"
+    ],
+    "java.project.referencedLibraries": []
+}
