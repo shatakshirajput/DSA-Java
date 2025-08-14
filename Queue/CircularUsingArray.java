@@ -72,9 +72,9 @@ public class CircularUsingArray {
         q.add(5);
         System.out.println(q.remove());
 
-        while (!q.isEmpty()) {
-            System.out.println(q.peek());
-            q.remove();
-        }
+        // while (!q.isEmpty()) {
+        //     System.out.println(q.peek());
+        //     q.remove();
+        // }
     }
 }

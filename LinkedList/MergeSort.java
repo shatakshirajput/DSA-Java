@@ -100,7 +100,7 @@ public class MergeSort {
         ll.addFirst(8);
         ll.addFirst(3);
         ll.printLL();
-        ll.head = mergeSort(ll.head);
+        // ll.head = mergeSort(ll.head);
         ll.printLL();
     }
 }

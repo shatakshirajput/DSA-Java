@@ -70,9 +70,9 @@ public class UsingLL{
         q.add(2);
         q.add(3);
 
-        while (!q.isEmpty()) {
-            System.out.println(q.peek());
-            q.remove();
-        }
+        // while (!q.isEmpty()) {
+        //     System.out.println(q.peek());
+        //     q.remove();
+        // }
     }
 }

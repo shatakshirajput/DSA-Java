@@ -89,17 +89,17 @@ public class Traversal {
         }
     }
     public static void main(String[] args) {
-        int[] nodes ={1,2,4,-1,-1,5,-1,-1,3,-1,6,-1,-1};
-        BT tree = new BT();
-        Node root = tree.build(nodes);
+        // int[] nodes ={1,2,4,-1,-1,5,-1,-1,3,-1,6,-1,-1};
+        // BT tree = new BT();
+        // Node root = tree.build(nodes);
 
-        System.out.println("Preorder - >");
-        tree.preorder(root);
-        System.out.println("Inorder - >");
-        tree.inorder(root);
-        System.out.println("Postorder - >");
-        tree.postorder(root);
-        System.out.println("Levelorder - >");
-        tree.levelorder(root);
+        // System.out.println("Preorder - >");
+        // tree.preorder(root);
+        // System.out.println("Inorder - >");
+        // tree.inorder(root);
+        // System.out.println("Postorder - >");
+        // tree.postorder(root);
+        // System.out.println("Levelorder - >");
+        // tree.levelorder(root);
     }
 }
