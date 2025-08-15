@@ -12,7 +12,7 @@ public class SubTree {
         }
     }
 
-    public static boolean isSubTree(Node root,Node subroot){
+    static boolean isSubTree(Node root,Node subroot){
         if(root==null){
             return false;
         }
@@ -24,7 +24,7 @@ public class SubTree {
         return isSubTree(root.left, subroot.left) || isSubTree(root.ryt, subroot.ryt);
     }
 
-    public static boolean isIdentical(Node node, Node subroot){
+    static boolean isIdentical(Node node, Node subroot){
         if(node == null&& subroot==null){
             return true;
         }else if(node == null || subroot == null || node.data!=subroot.data){
