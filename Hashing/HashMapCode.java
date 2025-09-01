@@ -123,7 +123,7 @@ public class HashMapCode {
             return n ==0;
         }
     }
-
+            
     public static void main(String[] args){
         HashMap<String, Integer> hm = new HashMap<>();
         hm.put("India",100);
