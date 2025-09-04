@@ -28,7 +28,7 @@ public class ItineryTickets {
         for(String k : tickets.keySet()){
             System.out.print(" -> "+tickets.get(s));
             s = tickets.get(s);
-        }
+        }      
         System.out.println();
     }
 }
