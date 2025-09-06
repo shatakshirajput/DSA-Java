@@ -22,7 +22,7 @@ public class Operations {
             System.out.println("true");
         }
 
-        set.clear();
+        set.clear();          
         System.out.println(set.isEmpty());
     }
 }
