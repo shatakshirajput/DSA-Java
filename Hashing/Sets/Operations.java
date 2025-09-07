@@ -24,5 +24,5 @@ public class Operations {
 
         set.clear();          
         System.out.println(set.isEmpty());
-    }
+    }                                        
 }
