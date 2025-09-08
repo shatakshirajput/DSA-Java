@@ -20,7 +20,7 @@ public class Operations {
 
         if(set.contains(1)){
             System.out.println("true");
-        }
+        }     
 
         set.clear();          
         System.out.println(set.isEmpty());
