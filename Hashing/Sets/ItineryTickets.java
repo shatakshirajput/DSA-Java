@@ -33,7 +33,7 @@ public class ItineryTickets {
             s = tickets.get(s);
             if (s != null) {
                 System.out.print(" -> ");
-            }
+            }                                   
         }
         System.out.println();
     }
