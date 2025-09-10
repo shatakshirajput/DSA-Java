@@ -14,3 +14,4 @@ public class FastExponentiation {
         System.out.println(fastExp(3, 5));
     }
 }
+                                           
