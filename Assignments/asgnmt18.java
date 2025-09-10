@@ -7,7 +7,7 @@ class ListNode {
         val = x;
         next = null;
     }
-}
+}              
 
 public class asgnmt18 {
     public static int getIntersectionNode(ListNode headA, ListNode headB) {
