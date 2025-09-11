@@ -1,4 +1,5 @@
-package Hashing;
+package Hashing.Maps;
+
 import java.util.*;
 
 public class LinkedHashmap {
