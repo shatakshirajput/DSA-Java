@@ -15,7 +15,6 @@ public class ConnectNRopes {
         while(pq.size() > 1){
             int min = pq.remove();             
             int min2 = pq.remove();
-                
             cost+= min+min2;
             pq.add(min+min2);
         }
