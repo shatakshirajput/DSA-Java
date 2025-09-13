@@ -126,7 +126,7 @@ public class allpatterns {
         for (int i=1;i<=r;i++){                               //1  1star 6spaces 1star
             // for 1st part stars                             //2  2stars 4spaces 2stars
             for (int j =1;j<=i;j++){                          //3  3stars 2spaces 3stars
-                System.out.print("*");                      //4  4stars 0spaces 4stars
+                System.out.print("*");                        //4  4stars 0spaces 4stars
             }
             // for spaces
             int s = 2*(r-i);
@@ -143,7 +143,7 @@ public class allpatterns {
         for (int i=r;i>=1;i--){                               //1  1star 6spaces 1star
             // for 1st part stars                             //2  2stars 4spaces 2stars
             for (int j =1;j<=i;j++){                          //3  3stars 2spaces 3stars
-                System.out.print("*");                      //4  4stars 0spaces 4stars
+                System.out.print("*");                        //4  4stars 0spaces 4stars
             }
             // for spaces
             int s = 2*(r-i);
@@ -163,7 +163,7 @@ public class allpatterns {
             //for spaces                                      //2 3spaces 5stars
             int s = r-i ;                                     //3 2spaces 5stars
             for(int j=1;j<=s;j++){                            //4 1space 5stars
-                System.out.print(" ");                      //5 0space 5stars
+                System.out.print(" ");                        //5 0space 5stars
             }
             //for stars
             for (int j=1;j<=r;j++){
