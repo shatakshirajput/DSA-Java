@@ -16,10 +16,10 @@ public class armstrong {
             a=a/10;
         }
         if (sum!=org){
-            System.out.println("Not an arstrong number");
+            System.out.println(" Not an arstrong number");
         }
         else{
-            System.out.println("Armstrong number");
+            System.out.println(" Armstrong number");
         }
         sc.close();
     }
