@@ -19,6 +19,6 @@ public class fibonacci {
         System.out.println("Fibonacci series:");
         System.out.print(0+" "+1);
         fib(n-2);
-        sc.close();
+        sc.close();     
     }
 }
