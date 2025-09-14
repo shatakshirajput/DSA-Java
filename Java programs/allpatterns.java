@@ -157,7 +157,7 @@ public class allpatterns {
             System.out.println();
         }   
 
-        // solid rhombus
+        // Solid rhombus
         System.out.println("Solid Rhombus - ");
         for(int i=1;i<=r;i++){                                //1 4spaces 5stars
             //for spaces                                      //2 3spaces 5stars
@@ -172,7 +172,7 @@ public class allpatterns {
             System.out.println();
         }    
 
-        // number pyramid 
+        // Number pyramid 
         System.out.println("Number Pyramid - ");
         for (int i=1;i<=r;i++){
             //spaces
@@ -186,7 +186,7 @@ public class allpatterns {
             System.out.println();
         }    
 
-        //palindrome pattern
+        //Palindrome pattern
         System.out.println("Palindrome Pattern - ");
         for (int i=1;i<=r;i++){
             // for spaces 
@@ -204,7 +204,7 @@ public class allpatterns {
             System.out.println();
         }    
 
-        //diamond pattern
+        //Diamond pattern
         System.out.println("Diamond Pattern - ");
         //upper half
         for(int i =1;i<=r;i++){
