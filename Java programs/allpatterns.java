@@ -9,7 +9,7 @@ public class allpatterns {
             for(int j=1;j<=c;j++){
                 System.out.print("*");
             }
-        System.out.println();
+            System.out.println();
         }
         
         //hollow rectangle
