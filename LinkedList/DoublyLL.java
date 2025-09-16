@@ -10,7 +10,7 @@ public class DoublyLL {
             this.next=null;
             this.prev=null;
         }
-    }
+    }   
     public static Node head;
     public static Node tail;
     public static int size;
