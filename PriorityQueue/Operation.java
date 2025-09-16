@@ -21,7 +21,7 @@ public class Operation {
             pq.remove();  //O(logn)
         }
 
-        System.out.println();
+        System.out.println();   
 
         while(!pq1.isEmpty()){
             System.out.print(pq1.peek()+"  ");  //O(1)
