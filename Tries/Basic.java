@@ -15,6 +15,6 @@ public class Basic {
     public static Node root = new Node();
 
     public static void main(String[] args){
-
+        int[] words = {10};
     }
 }
