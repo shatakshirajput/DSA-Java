@@ -59,7 +59,7 @@ public class StartsWith {
             insert(word);
         }
 
-        startsWith(prefix1);
-        startsWith(prefix2);
+        System.out.println(startsWith(prefix1));
+        System.out.println(startsWith(prefix2));
     }
 }
