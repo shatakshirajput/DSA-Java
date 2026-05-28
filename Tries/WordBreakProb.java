@@ -52,7 +52,7 @@ public class WordBreakProb {
 
     public static void main(String[] args){
         String[] words ={"i","like","sam","samsung","mobile","ice"};
-        String key = "ilikesams";
+        String key = "ilikesamsung";
         for (String word : words) {
             insert(word);
         }
