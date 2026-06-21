@@ -2,7 +2,7 @@ package Graph.CycleDetection;
 
 import java.util.ArrayList;
 
-public class ModifiedDFS {
+public class UndirectedGraph {
 
     static class Edge{
         int src;
